@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>BukRimworldMod1</name>
+    <author>Bukowa</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>Bukowa.BukRimworldMod1</packageId>
+    <description>My Rimworld Mod</description>
+
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Ideology</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+    </loadAfter>
+</ModMetaData>
